@@ -68,6 +68,10 @@ export default function RootLayout({
   return (
     <html lang="en" className="light">
       <head>
+        <meta
+          name="google-site-verification"
+          content="aodtN7l79DkxUgxp99WhiS0ahEuas0Wlx1H2gzRIIkA"
+        />
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap"
