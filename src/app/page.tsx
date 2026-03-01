@@ -177,7 +177,7 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="flex flex-col items-center justify-center rounded-xl bg-slate-50 p-4 dark:bg-slate-800/50">
-                    <span className="mb-1 text-xs text-slate-500">Fee Collections</span>
+                    <span className="mb-1 text-xs text-slate-500">Fee Collection</span>
                     <span className="text-2xl font-bold text-primary dark:text-white">₹4.2M</span>
                     <div className="mt-2 h-1.5 w-full overflow-hidden rounded-full bg-slate-200">
                       <div className="h-full w-4/5 bg-secondary" />
