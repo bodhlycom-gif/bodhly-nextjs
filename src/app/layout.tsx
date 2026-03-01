@@ -54,6 +54,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "aodtN7l79DkxUgxp99WhiS0ahEuas0Wlx1H2gzRIIkA",
+  },
   category: "education",
 };
 
