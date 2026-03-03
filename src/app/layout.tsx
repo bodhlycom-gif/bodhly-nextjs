@@ -67,10 +67,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="light">
+      {/* google-site-verification=Jx8h7L1MucLgmt4sIkmgvxpyD55fLnKmM1gV55nDrdg */}
       <head>
         <meta
           name="google-site-verification"
-          content="aodtN7l79DkxUgxp99WhiS0ahEuas0Wlx1H2gzRIIkA"
+          content="Jx8h7L1MucLgmt4sIkmgvxpyD55fLnKmM1gV55nDrdg"
         />
         <link
           rel="stylesheet"
