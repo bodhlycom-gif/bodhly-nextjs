@@ -10,6 +10,9 @@ const lexend = Lexend({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.bodhly.com"),
+  icons: {
+    icon: "/favicon.ico",
+  },
   title: "Bodhly | AI-Powered School Management for Kerala Schools",
   description:
     "Bodhly is an AI-powered school management system for Kerala private schools with smart attendance, fee automation, analytics, and parent communication.",
